@@ -1,1 +1,9 @@
-console.writeline("hello world");
+﻿namespace _Net;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
