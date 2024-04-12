@@ -1,9 +1,9 @@
-﻿namespace _Net;
-
-class Program
+﻿namespace AboutMyEnvironment 
 {
-    static void Main(string[] args)
+    internal class program2
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args){
+            Console.WriteLine("hello talin from c#");
+        }
     }
 }

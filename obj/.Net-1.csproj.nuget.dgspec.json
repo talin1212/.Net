@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miss\\OneDrive\\Documents\\chapter01\\.Net-1\\.Net.csproj": {}
+    "C:\\Users\\miss\\OneDrive\\Documents\\chapter01\\.Net-1\\.Net-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miss\\OneDrive\\Documents\\chapter01\\.Net-1\\.Net.csproj": {
+    "C:\\Users\\miss\\OneDrive\\Documents\\chapter01\\.Net-1\\.Net-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miss\\OneDrive\\Documents\\chapter01\\.Net-1\\.Net.csproj",
-        "projectName": ".Net",
-        "projectPath": "C:\\Users\\miss\\OneDrive\\Documents\\chapter01\\.Net-1\\.Net.csproj",
+        "projectUniqueName": "C:\\Users\\miss\\OneDrive\\Documents\\chapter01\\.Net-1\\.Net-1.csproj",
+        "projectName": ".Net-1",
+        "projectPath": "C:\\Users\\miss\\OneDrive\\Documents\\chapter01\\.Net-1\\.Net-1.csproj",
         "packagesPath": "C:\\Users\\miss\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\miss\\OneDrive\\Documents\\chapter01\\.Net-1\\obj\\",
         "projectStyle": "PackageReference",
